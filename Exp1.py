@@ -1,7 +1,7 @@
 import heapq
 print("8 PUZZLE PROBLEM")
 
-print("B.SHRUTHIKA-192110238")
+print("K.Ashwini 192110587")
 class PuzzleNode:
     def __init__(self, state, parent=None, move=None):
         self.state = state
